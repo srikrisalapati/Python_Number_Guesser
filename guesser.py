@@ -1,7 +1,7 @@
 import random
 
 
-print("Hello from number-guessin-game!")
+print("Hello from number-guessing-game!")
 """
 Runs the number guessing game.
 """
@@ -46,5 +46,3 @@ while True:
     if play_again.lower() != 'y':
         print("Thanks for playing!")
         break
-
-
